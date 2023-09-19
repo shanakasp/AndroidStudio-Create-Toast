@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <!-- Existing colors -->
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+        <color name="blue">#3F51B4</color>
+        <color name="yellow">#FEFE00</color>
+
+        <!-- Additional custom colors -->
+        <color name="red">#FF0000</color>
+        <color name="green">#00FF00</color>
+        <color name="purple">#800080</color>
+        <!-- Add more colors as needed -->
+    </resources>
+
